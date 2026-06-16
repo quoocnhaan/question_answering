@@ -1,8 +1,5 @@
-process_data/my_chroma_db/
+process_data
 bge-m3-local
 *.bz2
 *.parquet
-*.csv
-*.json
-*.jsonl
-*.pdf
+data

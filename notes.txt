@@ -1,1 +1,0 @@
-- "Nếu người dùng yêu cầu tính toán hoặc đưa ra các con số định lượng, hãy áp dụng tư duy Step-by-Step (Chain of Thought) để giải quyết, ngay cả khi đây là một câu hỏi kiến thức chung."

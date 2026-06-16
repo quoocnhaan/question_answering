@@ -1,0 +1,186 @@
+﻿qid,category,confidence,reading_score,math_score,knowledge_score,question
+test_0001,MATH,0.8623,0.8481,0.8623,0.8541,"Đoạn thông tin:
+[1] Tiêu đề: Ném đá
+Nội dung: Thạch hình là một phương pháp tử hình trong đó một nhóm người ném đá vào người cho đến khi đối tượng chết vì chấn thương cùn. Nó đã được chứng thực như một hình thức trừng phạt cho những hành vi sai trái nghiêm trọng từ thời cổ đại. Việc áp dụng nó trong một số hệ thống pháp lý đã gây ra tranh cãi trong những thập kỷ gần đây.
+Torah và Talmud quy định ném đá là hình phạt cho một số hành vi phạm tội. Trong nhiều thế kỷ, Do Thái giáo Rabbinic đã phát tr"
+test_0002,MATH,0.8577,0.8211,0.8577,0.8173,"Nếu bảng cầu của một sản phẩm cho thấy tại mức giá 5 đô la, lượng cầu là 150 đơn vị, và tại mức giá 3 đô la, lượng cầu là 250 đơn vị, thì độ co giãn của cầu theo giá giữa hai điểm này là bao nhiêu?"
+test_0003,KNOWLEDGE,0.8438,0.8336,0.8408,0.8438,"Đoạn thông tin:
+Tiêu đề: Friedrich Wilhelm I của Phổ
+Nội dung: Friedrich Wilhelm I, tên thật là Friedrich Wilhelm von Hohenzollern, (14 tháng 8 năm 1688 – 31 tháng 5 năm 1740), phiên âm tiếng Việt là Phriđrích I Vinhem là một thành viên của Hoàng tộc nhà Hohenzollern. Ông là vị vua thứ hai của nước Phổ, và cũng là Tuyển hầu tước xứ Brandenburg từ năm 1713 đến khi qua đời năm 1740. Trên cương vị là Tuyển hầu tước xứ Brandenburg, ông được gọi là Friedrich Wilhelm II. Trong liên minh cá nhân, ông l"
+test_0004,KNOWLEDGE,0.8423,0.8406,0.839,0.8423,"Đoạn thông tin:
+Title: Trận Höchstädt lần thứ hai
+Content: Trận Höchstädt hay còn được gọi là trận Blindheim hoặc là trận Blenheim theo cách gọi của người Anh, diễn ra vào ngày 13 tháng 8 năm 1704, là một trận đánh lớn trong cuộc chiến tranh Kế vị Tây Ban Nha. Vua Pháp là Louis XIV đã quyết định tung một đòn quyết định vào Hoàng đế Leopold I của Đế quốc La Mã Thần thánh bằng việc tiến công Viên - kinh sư của triều đình nhà Habsburg, và nếu thắng lợi thì phe Đại Liên minh sẽ phải ký kết một Hòa ư"
+test_0005,KNOWLEDGE,0.8556,0.8476,0.8429,0.8556,"Đoạn thông tin:
+[1] Tiêu đề: Yaroslav. Một ngàn năm trước
+Nội dung: Yaroslav. Một ngàn năm trước (tiếng Nga: Ярослав. Тысячу лет назад) là một bộ phim về sự hình thành Yaroslavl.
+Yaroslavl là một đô thị cổ kính nằm trên lộ trình du lịch nổi tiếng Vành đai vàng của nước Nga và trong năm 2010 kỷ niệm tròn một ngàn năm tuổi. Dịp chào mừng sự kiện trọng đại hiếm có trong lịch sử, các nhà điện ảnh Nga đã quyết định thực hiện một bộ phim thể loại lịch sử - phiêu lưu, đó là Yaroslavl. Một ngàn năm trướ"
+test_0006,MATH,0.8717,0.8243,0.8717,0.818,"Xét một phản ứng hóa học trong đó nồng độ của chất phản ứng $ B $ giảm theo thời gian theo phương trình vi phân $ \frac{dB}{dt} = -k B $, trong đó $ k $ là một hằng số dương. Nếu nồng độ ban đầu của $ B $ là $ B_0 $, thì nồng độ của $ B $ tại thời điểm $ t $ là bao nhiêu?"
+test_0007,KNOWLEDGE,0.8291,0.8162,0.8175,0.8291,Một trong các biểu hiện của biến đổi khí hậu là gì?
+test_0008,MATH,0.85,0.805,0.85,0.8168,"Trong một năm nhất định, GDP danh nghĩa của một quốc gia là 500 tỷ USD và GDP thực tế là 400 tỷ USD. Nếu chỉ số giá GDP của năm trước là 100, thì tỷ lệ lạm phát cho năm hiện tại là bao nhiêu?"
+test_0009,MATH,0.8536,0.817,0.8536,0.8236,"Một bể chứa hình trụ đang được đổ đầy nước với tốc độ không đổi là 50 centimet khối mỗi giây. Khi độ cao của nước trong bể là 10 cm, bán kính của bể là 5 cm. Hỏi tốc độ tăng của độ cao nước là bao nhiêu?"
+test_0010,MATH,0.8402,0.8358,0.8402,0.8256,Giải pháp nào sau đây được đề xuất để xử lý lỗi xác thực khi nộp hồ sơ thẩm duyệt thiết kế về phòng cháy và chữa cháy?
+test_0011,MATH,0.8381,0.8232,0.8381,0.8361,"Đoạn thông tin:
+[1] Tiêu đề: Bộ Sả
+Nội dung: Bộ Sả (danh pháp khoa học: Coraciiformes) theo phân loại truyền thống là một nhóm của các loài chim tương tự như chim sẻ thường là có bộ lông lòe loẹt, bao gồm bói cá, trảu, sả, đầu rìu và hồng hoàng. Chúng nói chung có các ngón chân dính vào nhau, với ba ngón hướng về phía trước. Bộ này chủ yếu phân bố tại Cựu Thế giới, với các đại diện của Tân Thế giới chỉ có 13 loài sả Ăng-ti (tody) và sả đuôi trĩ (motmot), cũng như chỉ có 6 trong tổng số khoảng 84"
+test_0012,MATH,0.8107,0.7955,0.8107,0.8083,Khoa học gia nào trong số những người sau đây đã đóng vai trò quan trọng nhưng thường bị bỏ qua trong quá trình phát triển lập trình máy tính thông qua công việc của họ trên các máy tính đầu tiên?
+test_0013,MATH,0.8554,0.8158,0.8554,0.823,Một bể hình trụ đang được đổ đầy nước với tốc độ không đổi là 20 cm³/s. Bán kính của bể là 5 cm. Hỏi tốc độ thay đổi chiều cao của mực nước trong bể khi chiều cao là 10 cm là bao nhiêu?
+test_0014,MATH,0.8431,0.8309,0.8431,0.8406,"Đoạn thông tin:
+[1] Tiêu đề: Arles, Các đài kỷ niệm Romanesque và La Mã
+Nội dung: Các đài kỷ niệm Romanesque và La Mã ở Arles là tập hợp các di tích nằm ở trung tâm thành phố Arles, miền nam nước Pháp đã được UNESCO công nhận là Di sản thế giới từ năm 1981. Arles là một ví dụ tốt về sự thích nghi của một thành phố cổ với nền văn minh thời Trung cổ ở châu Âu. Thành phố có một số di tích La Mã ấn tượng, trong đó sớm nhất là đấu trường La Mã, nhà hát La Mã và các phòng trưng bày ngầm có niên đại từ"
+test_0015,KNOWLEDGE,0.841,0.8382,0.8284,0.841,Bạn nên làm gì nếu muốn có danh thiếp từ một người chưa từng đưa danh thiếp?
+test_0016,MATH,0.8727,0.8443,0.8727,0.8388,"Xét các phản ứng sau:
+1. $ \text{X} \rightarrow \text{Y} $ với $ \Delta H_1 $
+2. $ \text{Y} \rightarrow \text{Z} $ với $ \Delta H_2 $
+3. $ \text{X} \rightarrow \text{Z} $ với $ \Delta H_3 $
+Biết rằng $ \Delta H_1 = -80 \, \text{kJ/mol} $ và $ \Delta H_2 = -30 \, \text{kJ/mol} $, giá trị của $ \Delta H_3 $ theo Định luật Hess là bao nhiêu?"
+test_0017,KNOWLEDGE,0.8381,0.8349,0.831,0.8381,"Đoạn thông tin:
+Setter
+Setter là một giống chó săn thể thao chuyên dùng vào mục đích săn chim và gà đồng trên đồng cỏ rộng lớn. Với bộ lông óng mượt và dài trùm kín lên cơ thể tạo cho chúng vẻ quy phái và thường làm chó cảnh nhưng nó còn có khả năng săn bắt tốt. Những giống chó này đã được chọn nuôi từ rất lâu tại các quốc gia thuộc vương quốc Anh trước khi nó được mang tới Mĩ phục vụ cho nhu cầu nuôi chủ yếu làm chó cảnh trong các gia đình. Setter có 4 giống chính đó là
+
+Setter Ái Nhĩ Lan (Iris"
+test_0018,KNOWLEDGE,0.8689,0.8594,0.8546,0.8689,Giành quyền lực chính trị được hiểu là:
+test_0019,KNOWLEDGE,0.8182,0.8166,0.8176,0.8182,Phương pháp nào hiệu quả nhất để pháp nhân thương mại tiếp tục hoạt động khi đã bị đình chỉ vĩnh viễn?
+test_0020,MATH,0.8572,0.8226,0.8572,0.8191,"Xét một dãy các biến ngẫu nhiên độc lập và có cùng phân phối $ X_1, X_2, \ldots, X_n $, trong đó mỗi $ X_i $ có thể nhận giá trị trong tập $\{1, 2, \ldots, k\}$ với xác suất bằng nhau. Định nghĩa biến ngẫu nhiên $ Y $ là số lượng các giá trị khác nhau xuất hiện trong $ X_1, X_2, \ldots, X_n $. Giá trị kỳ vọng của $ Y $ khi $ n = 2k $ là bao nhiêu?"
+test_0021,MATH,0.8571,0.852,0.8571,0.829,"Một điện trở có điện trở $ R $ được nối với nguồn điện áp $ V $. Dòng điện chạy qua điện trở là $ I $. Điện trở sau đó được cắt thành hai phần bằng nhau, và cả hai phần được nối song song với cùng nguồn điện áp $ V $. Nếu dòng điện chạy qua tổ hợp song song là $ I' $, thì phát biểu nào sau đây là đúng về mối quan hệ giữa $ I $ và $ I' $?"
+test_0022,MATH,0.8233,0.818,0.8233,0.8212,"Khi đổi căn cước do thay đổi địa chỉ đăng ký thường trú tại tỉnh Cà Mau, người dân cần nộp những giấy tờ nào?"
+test_0023,MATH,0.8671,0.8557,0.8671,0.8571,"Đoạn thông tin:
+-- Đoạn văn 1 --
+Tiêu đề: Giao phối lựa chọn
+Nội dung: Giao phối lựa chọn (""Assortative mating"") hay còn gọi là giao phối chọn lọc (""positive assortative"") hay còn gọi là giao phối cùng loại (""homogamy"") là một mô hình trong hệ thống giao phối và một hình thức chọn lọc giới tính theo đó, các cá thể có kiểu hình tương tự có xu hướng giao phối với nhau thường xuyên hơn mong đợi theo hình thái giao phối ngẫu nhiên. Giao phối chọn lựa là kiểu giao phối trong đó các cá thể đực và cái "
+test_0024,READING,0.872,0.872,0.8377,0.8374,"Làm thế nào để chủ trì, tham mưu ban hành văn bản có nội dung trái quy định của Đảng và pháp luật của Nhà nước?"
+test_0025,MATH,0.8621,0.8361,0.8621,0.8324,Khối lượng dung dịch NaOH 10% cần để trung hoà 200 ml dung dịch HCl 1M là:
+test_0026,MATH,0.8831,0.852,0.8831,0.846,Câu hỏi nào sau đây đúng về tần suất tính lãi kép?
+test_0027,MATH,0.8715,0.8638,0.8715,0.8697,"Đoạn thông tin:
+Nhiễm trùng
+Nhiễm trùng (infection) là sự xâm nhập của mầm bệnh vào cơ thể và phản ứng của cơ thể đối với thương tổn do mầm bệnh gây nên . Quá trình nhiễm trùng là quá trình vi sinh vật gây bệnh xâm nhập và nhân lên trong (hoặc trên) cơ thể vật chủ hay cơ thể cảm nhiễm, hoặc qua hàng rào da, niêm mạc, xâm nhập và nhân lên ở mô tế bào cơ thể, hay xâm nhập vào tế bào hoặc mô cơ thể và lan tràn trong cơ thể.. Nhiễm trùng có thể xảy ở bất cứ bộ phận nào của cơ thể, có khi cả toàn thâ"
+test_0028,MATH,0.8351,0.8173,0.8351,0.8284,"Đoạn thông tin:
+[1] Tiêu đề: Amnesiac
+Nội dung: Amnesiac là album phòng thu thứ năm của ban nhạc rock người Anh Radiohead. Nó được sản xuất bởi Nigel Godrich và phát hành ngày 5 tháng 6 năm 2001 qua Parlophone. Thu âm vào cùng thời kỳ với album trước, Kid A (2000), Amnesiac kết hợp các yếu tố nhạc điện tử, nhạc cổ điển, jazz và krautrock. Phần lời và bìa đĩa của album viết về các chủ đề thuộc ký ức và sự đầu thai ảnh hưởng bởi Hy Lạp và Ai Cập. Tay bass Colin Greenwood mô tả Amnesiac có ""nhiều b"
+test_0029,KNOWLEDGE,0.9187,0.8989,0.8938,0.9187,Giáo dục đóng vai trò:
+test_0030,KNOWLEDGE,0.7828,0.7795,0.7762,0.7828,Người đầu tiên truyền thừa tại chùa An Phú là ai?
+test_0031,MATH,0.8681,0.8318,0.8681,0.8235,"Giả sử $ x $ và $ y $ là các số nguyên sao cho $ x \equiv 2 \pmod{5} $ và $ y \equiv 3 \pmod{5} $. Xét biểu thức $ x^2y + xy^2 $. Trong các lựa chọn sau, điều nào đúng về giá trị của $ x^2y + xy^2 $ theo modulo 5?"
+test_0032,MATH,0.8595,0.8501,0.8595,0.8531,"Đoạn thông tin:
+-- Document 1 --
+Title: Hà Nội
+Content: Nhiệt độ trung bình mùa đông: 16,5 °C (lúc thấp xuống tới 2,7 °C). Trung bình mùa hạ: 29,5 °C (lúc cao nhất lên tới 43,7 °C). Nhiệt độ trung bình cả năm là 23 °C, lượng mưa trung bình hàng năm vào mức 1.800mm đến 2.000mm. Vào tháng 5 năm 1926, nhiệt độ tại thành phố được ghi lại ở mức kỷ lục 42,8 °C. Tháng 1 năm 1955, nhiệt độ xuống mức thấp nhất, 2,7 °C do chịu ảnh hưởng của La Nina. Vào đầu tháng 6 năm 2017 với việc bị ảnh hưởng bởi El Ni"
+test_0033,KNOWLEDGE,0.8607,0.8327,0.8223,0.8607,Nhiệm vụ nào sau đây KHÔNG thuộc khoa học xã hội?
+test_0034,MATH,0.854,0.8152,0.854,0.8174,Một doanh nghiệp trong thị trường cạnh tranh có hàm tổng chi phí (TC) được cho bởi TC = 100 + 5Q + 0.5Q^2. Chi phí biến đổi trung bình (AVC) tối thiểu tại điểm đóng cửa là bao nhiêu?
+test_0035,READING,0.8611,0.8611,0.8556,0.8588,"Chọn phương án đúng trả lời cho câu hỏi sau: Cách mạng giải phóng dân tộc trong thời đại mới phải do Đảng Cộng sản lãnh đạo, để:"
+test_0036,MATH,0.8687,0.8125,0.8687,0.823,"Xét hàm số $ g(x) = 2x^2 - 3x + 1 $. Nếu chúng ta thực hiện phép biến đổi $ x \to x - 2 $ đối với $ g(x) $, đa thức kết quả là gì?"
+test_0037,MATH,0.8556,0.8274,0.8556,0.8285,"Một chiếc tàu vũ trụ đang di chuyển với tốc độ $ v = 0.6c $, trong đó $ c $ là tốc độ ánh sáng. Hỏi hệ số giãn nở thời gian $ \gamma $ của chiếc tàu vũ trụ so với một quan sát viên đứng yên là bao nhiêu?"
+test_0038,MATH,0.8307,0.8234,0.8307,0.8302,Theo Luật Bảo vệ môi trường 2020 thì có bao nhiêu nguyên tắc bảo vệ môi trường?
+test_0039,KNOWLEDGE,0.8532,0.8476,0.8501,0.8532,"Đoạn thông tin:
+-- Đoạn văn 1 --
+Tiêu đề:
+Nội dung: Tổ chức Hiệp ước Bắc Đại Tây Dương (tiếng Anh: North Atlantic Treaty Organization, NATO; tiếng Pháp: Organisation du traité de l'Atlantique nord, OTAN) là một liên minh quân sự dựa trên Hiệp ước Bắc Đại Tây Dương được ký kết vào ngày 4 tháng 4 năm 1949 bao gồm Mỹ, Canada và một số nước ở châu Âu (các nước 2 bên bờ Đại Tây Dương). Mục đích thành lập của NATO là để ngăn chặn sự phát triển ảnh hưởng của chủ nghĩa Cộng sản và Liên Xô lúc đó đang tr"
+test_0040,MATH,0.8438,0.8291,0.8438,0.8405,"Đoạn thông tin:
+Tiêu đề: Ali Hassan al-Majid
+Nội dung: Ali Hassan al-Majid (tiếng Ả Rập: علي حسن عبد المجيد التكريتي, Latin hóa: ʿAlī Ḥasan ʿAbd al-Majīd al-Tikrītī; 30 tháng 11, 1941 – 25 tháng 1, 2010) là cựu bộ trưởng Bộ quốc phòng Iraq, thành viên đảng Ba'ath, bộ trưởng nội vụ, chỉ huy quân sự và quốc trưởng Cơ quan tình báo Iraq. Ông cũng là thống chế Kuwait bị chiếm đóng trong Chiến tranh vùng Vịnh.
+Là người em họ đầu tiên và cũng là bộ hạ tích cực của cựu Tổng thống Iraq Saddam Hussein, ô"
+test_0041,KNOWLEDGE,0.8091,0.7933,0.7971,0.8091,"Theo Tư tưởng Hồ Chí Minh, lực lượng cách mạng chủ yếu được hình thành từ đâu?"
+test_0042,MATH,0.8489,0.8134,0.8489,0.8153,"Một doanh nghiệp có hàm sản xuất Q = 2K^0.5L^0.5 và đang sản xuất tại điểm A (4,16) trên đường đẳng lượng sản xuất. Điểm nào trong các điểm sau nằm trên đường đẳng lượng với mức sản lượng bằng một nửa?"
+test_0043,MATH,0.8631,0.8321,0.8631,0.8303,"Một nhà nghiên cứu đang kiểm định giả thuyết không $ H_0: \mu = 50 $ đối với giả thuyết thay thế $ H_1: \mu > 50 $ bằng cách sử dụng một mẫu có kích thước $ n = 36 $ từ một quần thể có phân phối chuẩn với phương sai chưa biết. Giá trị trung bình mẫu là $ \bar{x} = 53 $ và độ lệch chuẩn mẫu là $ s = 6 $. Trong số các phát biểu sau, phát biểu nào là đúng về giá trị thống kê t?"
+test_0044,KNOWLEDGE,0.8198,0.8113,0.8192,0.8198,Yếu tố nào là cốt lõi giúp công nghiệp văn hóa tạo ra giá trị kinh tế?
+test_0045,KNOWLEDGE,0.8478,0.8406,0.8437,0.8478,"Đoạn thông tin:
+Nguyễn Bảo Trị
+Nguyễn Bảo Trị (sinh năm 1929) nguyên là tướng lĩnh bộ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Trung tướng. Ông xuất thân từ khóa đầu tiên và cũng là khóa duy nhất ở trường sĩ quan trừ bị do Quốc gia Việt Nam mở ra tại miền bắc Việt Nam. Tốt nghiệp được chọn về đơn vị bộ binh. Khởi đầu với chức vụ Đại đội trưởng của một đơn vị bộ binh tác chiến. Tuần tự theo hệ thống chỉ huy lên đến chức vụ chỉ huy cấp Sư đoàn, Quân đoàn trước khi được chuyển sang làm Chỉ huy "
+test_0046,KNOWLEDGE,0.8368,0.8244,0.8161,0.8368,Nguyễn Ái Quốc đã mở nhiều lớp huấn luyện đào tạo cán bộ cho cách mạng Việt Nam ở đâu
+test_0047,KNOWLEDGE,0.8376,0.8262,0.8348,0.8376,"Đoạn thông tin:
+Granny Smith
+Granny Smith hay còn được gọi là táo xanh hay táo chua, là một giống táo có nguồn gốc từ Úc xuất hiện vào năm 1868. Nó được đặt tên sau khi nhà nhân giống cây trồng Maria Ann Smith tình cờ phát hiện trong một quá trình lai tạo không chủ ý.
+Quả táo cứng, chắc, có vỏ màu xanh nhạt, thịt giòn và chứa nhiều nước. Hương vị chua và có tính axit. Nó vẫn cứng khi nướng, khiến nó trở thành một loại táo nấu ăn rất phổ biến, chẳng hạn như được sử dụng trong bánh nướng để làm ng"
+test_0048,KNOWLEDGE,0.8214,0.8093,0.7978,0.8214,"Nguồn gốc nào sau đây đã ảnh hưởng sâu sắc đến tư tưởng Chủ Tịch Hồ Chí Minh, góp phần hình thành con người cách mạng của Người?"
+test_0049,MATH,0.8689,0.8611,0.8689,0.8643,"Đoạn thông tin:
+Title: Vũ khí hủy diệt hàng loạt
+Content: Vũ khí hủy diệt hàng loạt (tiếng Anh: weapon of mass destruction, gọi tắt là WMD) là loại vũ khí có khả năng gây cho đối phương tổn thất rất lớn về sinh lực, phương tiện kỹ thuật, cơ sở kinh tế, quốc phòng, môi trường sinh thái, có tác động mạnh đến tâm lý-tinh thần. Nhìn chung đó là thuật ngữ để chỉ các vũ khí hạt nhân, vũ khí sinh học, vũ khí hóa học và phóng xạ. Thuật ngữ này nảy sinh từ năm 1937 khi báo chí đề cập đến vụ ném bom thảm "
+test_0050,MATH,0.8623,0.8351,0.8623,0.8254,"Một công ty có các số dư tài khoản sau đến hết năm: Tài sản 250.000 USD, Nợ 70.000 USD, Vốn cổ phần thường 100.000 USD, Cổ tức 5.000 USD, Doanh thu 100.000 USD và Chi phí 80.000 USD. Nếu công ty phát hành cổ phiếu thường mới trị giá 20.000 USD vào năm tới, tác động đến vốn chủ sở hữu sẽ như thế nào theo phương trình kế toán mở rộng?"
+test_0051,MATH,0.8549,0.821,0.8549,0.8153,"Trong thị trường cạnh tranh hoàn hảo, nếu một doanh nghiệp tăng sản lượng từ 50 đơn vị lên 75 đơn vị và giá thị trường là 60 đô la mỗi đơn vị, thì doanh thu tổng của doanh nghiệp tăng bao nhiêu?"
+test_0052,KNOWLEDGE,0.8502,0.8413,0.8455,0.8502,"Đoạn thông tin:
+[1] Tiêu đề: Sony
+Nội dung: Công ty công nghiệp Sony (ソニー株式会社 (Sonī Chu Thức Hội Xã), Sonī kabushiki gaisha, tiếng Anh: Sony Corporation), gọi tắt là SONY, là một tập đoàn đa quốc gia của Nhật Bản, với trụ sở chính nằm tại Minato, Tokyo, Nhật Bản, và là tập đoàn điện tử đứng thứ 5 thế giới với 81,64 tỉ USD (2011). Sony là một trong những công ty hàng đầu thế giới về điện tử, sản xuất tivi, máy ảnh, máy tính xách tay và đồ dân dụng khác.
+Được thành lập vào tháng 5/1946 tại Nihonba"
+test_0053,MATH,0.8444,0.8218,0.8444,0.8295,"Đoạn thông tin:
+[1] Tiêu đề: home net 2 +
+Nội dung: Gói Home Net 2+
+- Đối tượng: Cá nhân, hộ gia đình lắp đặt mới hoặc chuyển đổi gói cước tại ngoại thành Hà Nội, TP HCM và 61 tỉnh thành phố khác
+- Giá cước (đã có VAT):
++ Phí lắp đặt: 300.000 đồng/thuê bao
++ Cước tháng áp dụng tại nội thành Hà Nội, TP HCM: 250.000 đồng/1 tháng, 1.500.000 đồng/6 tháng, 3.000.000 đồng/12 tháng (chưa bao gồm Set-top-box cho TV thông thường)
++ Cước tháng áp dụng tại ngoại thành Hà Nội, TP HCM và 61 tỉnh thành phố: 2"
+test_0054,MATH,0.853,0.8146,0.853,0.8186,"Trong một thị trường đối với một mặt hàng nhất định, cầu được cho bởi $ Q_d = 200 - 5P $ và cung được cho bởi $ Q_s = 5P - 50 $, trong đó $ Q $ là lượng và $ P $ là giá. Nếu chính phủ áp đặt một trần giá ở $ P = 10 $, thì lượng thiếu hụt trong thị trường là bao nhiêu?"
+test_0055,MATH,0.86,0.8248,0.86,0.8247,"Nếu tỷ lệ dự trữ là 10%, thì số nhân tiền tệ là bao nhiêu?"
+test_0056,MATH,0.8658,0.8233,0.8658,0.8237,Xét hàm số $ h(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 $. Giả sử $ k(x) $ là đạo hàm bậc hai của $ h(x) $. Hàm số $ h(x) $ có bao nhiêu điểm uốn?
+test_0057,KNOWLEDGE,0.8497,0.8416,0.8409,0.8497,"Đoạn thông tin:
+Title: Chùa Báo Ân
+Content: Chùa Báo Ân mang trong mình nhiều kỷ lục nhưng đó cũng chính là ngôi chùa được cho là ""đoản mệnh"", chỉ tồn tại vài chục năm sau khi được khánh thành với quy mô lớn. Dấu tích duy nhất còn sót lại đến ngày nay chính là tháp Hòa Phong nằm bên bờ hồ Hoàn Kiếm - Hà Nội.
+Công trình chùa Báo Ân lớn bậc nhất kinh kỳ thế kỷ 19, không chỉ là một công trình mang dấu ấn nhà Nguyễn, mà còn là nét lịch sử văn hóa, kiến trúc Phật giáo độc đáo, tiêu biểu cho dòng tư t"
+test_0058,MATH,0.8258,0.8219,0.8258,0.8141,"Thời hạn giải quyết thủ tục cấp giấy phép xây dựng (cải tạo, nâng cấp đường ngang) của Bộ Xây dựng là bao nhiêu ngày làm việc kể từ khi nhận đủ hồ sơ?"
+test_0059,READING,0.8634,0.8634,0.838,0.8601,"Nhận định: “Các thông tin được đăng tải trên trang thông tin cá nhân của người nổi tiếng có hàng nghìn người theo dõi, chia sẻ chắc chắn có nội dung thông tin chính xác”?"
+test_0060,KNOWLEDGE,0.8465,0.8343,0.8321,0.8465,Điểm khác biệt căn bản của hệ thống chính trị Việt Nam so với hệ thống chính trị được tổ chức theo cơ chế tam quyền phân lập là:
+test_0061,KNOWLEDGE,0.8606,0.8496,0.8538,0.8606,"Tỉ lệ dân thành thị của nước ta còn thấp, nguyên nhân chính là do:"
+test_0062,KNOWLEDGE,0.8359,0.8207,0.8181,0.8359,Sức mạnh dân tộc bao gồm những yếu tố chủ yếu nào?
+test_0063,MATH,0.848,0.8097,0.848,0.8099,"Xét một dung dịch đệm gồm axit yếu $ \text{HB} $ và bazơ liên hợp của nó $ \text{B}^- $. Giá trị $ \text{p}K_a $ của $ \text{HB} $ là 5,00. Nếu nồng độ của $ \text{HB} $ là 0,2 M và nồng độ của $ \text{B}^- $ là 0,1 M, thì giá trị pH của dung dịch là bao nhiêu?"
+test_0064,READING,0.8247,0.8247,0.8232,0.8222,"Đoạn thông tin:
+[1] Tiêu đề: Quyền LGBT ở Honduras
+Nội dung: Quyền đồng tính nữ, đồng tính nam, song tính và chuyển giới ở Honduras có thể phải đối mặt với những thách thức pháp lý mà những người không LGBT không gặp phải. Cả nam và nữ hoạt động tình dục đồng giới đều hợp pháp ở Honduras.Các cặp đồng giới và hộ gia đình do các cặp đồng giới đứng đầu không đủ điều kiện cho các biện pháp bảo vệ pháp lý tương tự dành cho các cặp vợ chồng khác giới. Hôn nhân đồng giới, kết hợp dân sự de facto và nhậ"
+test_0065,MATH,0.8355,0.832,0.8355,0.8249,"Trong kỹ thuật phân trang bộ nhớ, địa chỉ Hệ điều hành cấp cho CPU truy cập tiến trình trong bộ nhớ (gọi là địa chỉ luận lý) có dạng nào?"
+test_0066,MATH,0.8515,0.8421,0.8515,0.8497,Quan điểm về “Phổ cập kỹ năng số” được nêu trong Quyết định số 146/QĐ-TTg là?
+test_0067,MATH,0.8668,0.8277,0.8668,0.8258,"Trong một mô hình kinh tế đơn giản, hàm tiêu dùng được cho bởi $ C = a + bY $, trong đó $ Y $ là thu nhập quốc gia tổng cộng, $ a $ là tiêu dùng tự định, và $ b $ là xu hướng tiêu dùng biên (với $ 0 < b < 1 $). Nếu chính phủ đưa ra một mức thuế suất $ t $ sao cho $ T = tY $, và thu nhập quốc gia tổng cộng $ Y $ được xác định bởi phương trình $ Y = C + I + G $, trong đó $ I $ là đầu tư và $ G $ là chi tiêu chính phủ, thì hàm tiêu dùng mới theo $ Y $ là gì?"
+test_0068,KNOWLEDGE,0.846,0.8314,0.8375,0.846,"Ô-guyt-xtanh nhà thần học, chính trị học phương Tây thời trung cổ khẳng định “Quyền lực là sở hữu cá nhân là một sai lầm cơ bản”. Ông cho rằng quyền lực chính trị phải thuộc về:"
+test_0069,MATH,0.869,0.8264,0.869,0.8272,"Xét phương trình vi phân riêng phần (PDE) $ u_t = u_{xx} $ với điều kiện ban đầu $ u(x,0) = \sin(x) $ và các điều kiện biên $ u(0,t) = u(\pi,t) = 0 $. Giá trị của nghiệm $ u(x,t) $ tại $ t = 1 $ là gì?"
+test_0070,READING,0.8411,0.8411,0.8291,0.8274,"Theo quy trình cấp Chứng nhận trường mầm non đạt kiểm định chất lượng giáo dục, thành phần hồ sơ bắt buộc gồm những tài liệu nào?"
+test_0071,MATH,0.8453,0.8172,0.8453,0.8233,"Một thanh kim loại có chiều dài 1 mét và diện tích mặt cắt ngang 0,01 m² ban đầu ở nhiệt độ đồng nhất là 50°C. Một đầu của thanh đột ngột tiếp xúc với nguồn nhiệt duy trì nhiệt độ không đổi là 150°C, trong khi đầu còn lại được giữ ở 0°C. Hệ số dẫn nhiệt của kim loại là 40 W/(m·K), và nhiệt dung riêng là 400 J/(kg·K). Khối lượng riêng của kim loại là 7000 kg/m³. Giả sử điều kiện trạng thái ổn định và không có mất mát nhiệt ra môi trường, nhiệt độ tại một điểm cách đầu được giữ ở 0°C 0,5 mét là ba"
+test_0072,MATH,0.86,0.8282,0.86,0.8263,"Tiệm bán lẻ đang phân tích tỷ lệ luân chuyển hàng tồn kho, được tính bằng chi phí hàng hóa bán ra (COGS) chia cho hàng tồn kho trung bình. Chi phí hàng hóa bán ra của tiệm trong năm vừa qua là 500.000 đô la, và tiệm dự định tăng COGS lên 10% trong năm tới. Nếu tiệm muốn duy trì tỷ lệ luân chuyển hàng tồn kho là 5, thì hàng tồn kho trung bình trong năm tới nên là bao nhiêu?"
+test_0073,MATH,0.8314,0.806,0.8314,0.8212,"Trong cặp NST (nhiễm sắc thể) tương đồng, 2 NST có nguồn gốc từ đâu?"
+test_0074,KNOWLEDGE,0.8188,0.8125,0.8097,0.8188,Thế gian trụ trì Phật bảo là chỉ cho gì?
+test_0075,KNOWLEDGE,0.8276,0.8017,0.7997,0.8276,Con người là động vật chính trị là quan điểm của nhà chính trị học nào?
+test_0076,MATH,0.8549,0.8242,0.8549,0.8286,"Một tia sáng đi vào một khối thủy tinh với góc tới là 30 độ. Chỉ số khúc xạ của thủy tinh là 1,5. Hỏi góc khúc xạ khi tia sáng thoát khỏi khối thủy tinh ra không khí là bao nhiêu?"
+test_0077,MATH,0.858,0.8203,0.858,0.8216,"Một công ty đang phân tích chi phí quý của mình và nhận thấy rằng chi phí trong mỗi quý có thể được mô hình hóa bởi các phương trình sau:
+- Q1: $ E_1 = 3000 + 100y $
+- Q2: $ E_2 = 4000 + 150y $
+- Q3: $ E_3 = 5000 + 200y $
+- Q4: $ E_4 = 6000 + 250y $
+trong đó $ y $ là một biến chưa biết biểu thị tác động của một chiến lược giảm chi phí mới. Tổng chi phí hàng năm được công ty báo cáo là 18.000 đô la. Giá trị của $ y $ là bao nhiêu?"
+test_0078,MATH,0.8524,0.8199,0.8524,0.8094,"Một hạt chuyển động dọc theo trục x với vị trí được cho bởi hàm số $ x(t) = t^3 - 3t^2 + 3t + 1 $ mét, trong đó $ t $ tính bằng giây. Hạt đó đạt được vận tốc nhỏ nhất tại thời điểm $ t $ nào?"
+test_0079,MATH,0.8245,0.8104,0.8245,0.81,"Đối với chương trình đào tạo chuyên sâu đặc thù trình độ bậc 7, yêu cầu số lượng giảng viên cơ hữu là bao nhiêu?"
+test_0080,KNOWLEDGE,0.8798,0.8667,0.8501,0.8798,Tính nhân văn của văn hóa chính trị biểu hiện ở chỗ:
+test_0081,MATH,0.8682,0.8439,0.8682,0.835,"Một doanh nghiệp hoạt động trong thị trường cạnh tranh hoàn hảo và đối mặt với các hàm chi phí sau:
+- Tổng chi phí (TC) = 400 + 15Q + 3Q^2
+- Chi phí biên (MC) = 15 + 6Q
+- Chi phí trung bình tổng (ATC) = (400/Q) + 15 + 3Q
+Cho biết giá thị trường là P = 45, và doanh nghiệp đang sản xuất ở mức sản lượng tối đa hóa lợi nhuận, câu nào sau đây là đúng?"
+test_0082,MATH,0.8535,0.8249,0.8535,0.8247,"Một nghiên cứu được thực hiện để xác định xem một phương pháp giảng dạy mới có cải thiện hiệu suất của học sinh trên bài kiểm tra chuẩn hóa hay không. Giả thuyết không $ H_0 $ là phương pháp mới không có tác động, và giả thuyết thay thế $ H_1 $ là phương pháp mới cải thiện hiệu suất. Điểm trung bình của mẫu là 78, điểm trung bình của quần thể là 75, và độ lệch chuẩn của quần thể là 10. Kích thước mẫu là 100. Với mức ý nghĩa 0.05, điểm z cho bài kiểm tra này là bao nhiêu?"
+test_0083,MATH,0.8659,0.8398,0.8659,0.8276,"Một quả bóng có khối lượng $ m $ được ném theo phương ngang từ đỉnh một tòa tháp có chiều cao $ h $ với vận tốc ban đầu $ v_0 $. Bỏ qua lực cản không khí, biểu thức nào sau đây mô tả chính xác vận tốc $ v $ của quả bóng ngay trước khi nó chạm đất?"
+test_0084,KNOWLEDGE,0.7755,0.7623,0.7555,0.7755,Ngôi chùa Ba La Mật được khai dựng vào năm nào?
+test_0085,MATH,0.8501,0.8126,0.8501,0.8115,"Một hạt đang chuyển động với tốc độ $0.6c$, trong đó $c$ là tốc độ ánh sáng. Động lượng tương đối $p$ của hạt là bao nhiêu nếu khối lượng nghỉ của nó là $m_0$?"
+test_0086,MATH,0.8224,0.8174,0.8224,0.8015,Chất liệu nào được sử dụng làm chất nền của đĩa cứng hiện đại để cải thiện độ đồng đều của bề mặt từ tính và giảm lỗi đọc/ghi?
+test_0087,MATH,0.8244,0.8051,0.8244,0.8176,"Theo quy định mới từ ngày 1/7/2025, Việt Nam sẽ áp dụng mô hình hành chính bao nhiêu cấp?"
+test_0088,MATH,0.847,0.831,0.847,0.8294,Tại sao việc xác định mục tiêu hoạt động là quan trọng đối với doanh nghiệp?
+test_0089,READING,0.8494,0.8494,0.8447,0.8454,"Trong bối cảnh luật hình sự, câu hỏi nào dưới đây mô tả chính xác nhất thuật ngữ ""actus reus""?"
+test_0090,KNOWLEDGE,0.8284,0.8139,0.8208,0.8284,"Đoạn thông tin:
+[1] Tiêu đề: Chó ngao Anh
+Nội dung: Chó ngao Anh (English Mastiff) hay đôi khi gọi là chó ngao là một giống chó ngao có nguồn gốc từ nước Anh. Đây là giống chó lớn nhất thế giới về cân nặng, và đứng hàng thứ ba về chiều cao chỉ sau giống chó săn Ái Nhĩ Lan (Irish Wolfhound) và Great Dane. Nó còn có tên gọi Old English Mastif, English Mastif hay Mastiff. Trong tiếng Anh có rất nhiều giống chó của các nước khác có đi kèm theo chữ Mastiff tức chó ngao, nhưng nếu chỉ dùng chữ Mastiff"
+test_0091,MATH,0.8509,0.8432,0.8509,0.8475,"Đoạn thông tin:
+-- Đoạn văn 1 --
+Tiêu đề: Quá cảnh của Sao Kim, 2004
+Nội dung: Quá cảnh sao Kim gần đây thứ hai được quan sát từ Trái Đất diễn ra vào ngày 8 tháng 6 năm 2004. Sự kiện này đã nhận được sự chú ý đáng kể, vì đây là lần vận chuyển đầu tiên của Sao Kim sau khi phát minh ra phương tiện truyền thông phát sóng. Không có con người nào còn sống vào thời điểm đó đã chứng kiến hiện tượng quá cảnh sao Kim trước đó kể từ khi quá cảnh đó xảy ra vào ngày 6 tháng 12 năm 1882. Đài thiên văn Nam ch"
+test_0092,KNOWLEDGE,0.7888,0.7637,0.7799,0.7888,"Tháng 06 năm 1929, tổ chức Đảng Cộng sản đầu tiên ra đời ở Bắc kỳ với tên gọi gì?"
+test_0093,MATH,0.8529,0.8236,0.8529,0.8182,"Trong một phản ứng hạt nhân giả định, một hạt nhân của nguyên tố Y có số khối là 200 bị phân hạch thành hai hạt nhân, mỗi hạt có số khối là 100. Biết rằng năng lượng liên kết trên nuclôn của nguyên tố Y là 7,8 MeV và của các hạt nhân tạo thành là 8,5 MeV, hỏi năng lượng tổng cộng được giải phóng trong phản ứng này là bao nhiêu?"
+test_0094,MATH,0.8549,0.8458,0.8549,0.8462,"Đoạn thông tin:
+Title: Zirconi
+Content: Zirconi là một nguyên tố hóa học có ký hiệu Zr và số nguyên tử 40. Nó là một kim loại chuyển tiếp màu trắng xám bóng láng, tương tự như titan. Zirconi được sử dụng như là một tác nhân tạo hợp kim do khả năng cao trong chống ăn mòn của nó. Nó không bao giờ được tìm thấy như là một kim loại tự nhiên mà thu được chủ yếu từ khoáng vật zircon, chất có thể được làm tinh khiết nhờ clo. Zirconi lần đầu tiên được Berzelius cô lập từ dạng không tinh khiết vào năm 18"
+test_0095,KNOWLEDGE,0.833,0.829,0.8288,0.833,"Đoạn thông tin:
+-- Đoạn văn 1 --
+Tiêu đề: Cung điện của Giáo hoàng (Avignon)
+Nội dung: Cung điện của Giáo hoàng là một cung điện theo kiến trúc gothic nằm ở khu lịch sử của thành phố Avignon, Pháp. Avignon trở thành nơi ở của Giáo hoàng bắt đầu vào năm 1309. Sau khi được chọn làm Giáo hoàng năm 1305, Clement V đã dọn toàn thể bộ máy hành chính của Tòa Thánh về Avignon để tránh các bạo lực chống lại ông ở Roma. Lúc ban đầu Clement V sống tại tu viện của dòng Dominic, nhưng ngay sau đó ông và các "
+test_0096,MATH,0.8525,0.8176,0.8525,0.8222,"Một công ty có một khoản phải thu tiền mặt trị giá 150.000 USD với lãi suất hàng năm là 4%. Khoản phải thu này sẽ đáo hạn sau 24 tháng, và năm tài chính của công ty kết thúc vào ngày 31 tháng 12. Nếu khoản phải thu được phát hành vào ngày 1 tháng 7, số tiền lãi phải thu mà công ty nên báo cáo trên bảng cân đối kế toán vào cuối năm tài chính là bao nhiêu?"
+test_0097,KNOWLEDGE,0.823,0.8108,0.8197,0.823,Người ở độ tuổi nào phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng do cố ý hoặc tội phạm đặc biệt nghiêm trọng?
+test_0098,MATH,0.8514,0.8376,0.8514,0.8512,"Thế nan giải của người tù là một trò chơi nổi tiếng, trong đó:"
+test_0099,MATH,0.8733,0.8359,0.8733,0.834,"Một công ty có các dữ liệu tài chính sau cho năm hiện tại:
+- Lợi nhuận gộp: 400.000 đô la
+- Chi phí hoạt động: 150.000 đô la
+- Tài sản tổng cộng: 2.000.000 đô la
+- Vốn chủ sở hữu tổng cộng: 1.200.000 đô la
+- Doanh số tổng cộng: 800.000 đô la
+Dựa vào các con số này, hãy tính tỷ suất lợi nhuận hoạt động và tỷ suất vòng quay tài sản. Câu nào sau đây là đúng dựa trên các phép tính này?"
+test_0100,READING,0.8806,0.8806,0.8745,0.8775,"Điền từ còn thiếu vào chỗ trống: ""Tấc đất, ... vàng"""
